@@ -54,4 +54,6 @@ Give me Credits if wanna give me love💝
 
 the credits is inviting the discord bot
 
+Handler made BY and little bit edit by me
 
+![image](https://user-images.githubusercontent.com/92865043/232794764-0e25332c-bd95-4740-83d9-c59838e0e30e.png)
