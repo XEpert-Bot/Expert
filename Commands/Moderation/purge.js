@@ -106,5 +106,5 @@ module.exports = {
     return interaction.followUp({
       content: `Successfully deleted **${deletedSize}** messages sent by ${deletedUser}.`,
     });
-  },
+  }, 
 };
