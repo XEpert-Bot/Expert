@@ -2,6 +2,8 @@
 
 **A multifunctional Discord bot With Ai image gen**
 
+I will make dashboard for this for if you invite Bot more then 50 server! 
+
 **Note**
 
 ``First if you Start cloning this repo please Invite My bot into your discord server to show me some support then i'll make video and Source code  for Its Dashboard 
