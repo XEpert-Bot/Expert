@@ -52,4 +52,6 @@ for more info Dm Me on discord ``!D R A G O#0001``
 
 Give me Credits if wanna give me love💝
 
+the credits is inviting the discord bot
+
 
