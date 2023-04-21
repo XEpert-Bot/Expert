@@ -46,6 +46,8 @@ start with installing pakage ``npm install``
 
 Run with using command ``npm start run``
 
+```for any type of bug or help of custom bot or commands``` ```Fist Add my bot in your server then DM me ```
+
 for more info Dm Me on discord ``!D R A G O#0001``
 
 the credits is inviting the discord bot
