@@ -1,5 +1,9 @@
 # XEpert
 
+**Change logs coming Soong**
+
+**chatbot, dashboard, economy with leaderboard, some button funtions on Music of Some other commands **
+
 **A multifunctional Discord bot With Ai image gen**
 
 I will make dashboard for this for if you invite Bot more then 50 server! 
