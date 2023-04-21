@@ -2,7 +2,7 @@
 
 **Change logs coming Soong**
 
-**chatbot, dashboard, economy with leaderboard, some button funtions on Music of Some other commands **
+**chatbot**, **dashboard**, **economy with leaderboard**, **some button funtions on Music of Some other commands **
 
 **A multifunctional Discord bot With Ai image gen**
 
