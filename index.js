@@ -25,7 +25,20 @@ const client = new Client({
   intents: [Object.keys(GatewayIntentBits)],
   partials: [Object.keys(Partials)],
 });
+// adding no prefix sytem type help in your discord server 
+const client = new Client({
+  intents: [Object.keys(GatewayIntentBits)],
+  partials: [Object.keys(Partials)],
+});
 
+client.on('messageCreate', async (message) => {
+  if (message.author.bot) return; // Ignore messages sent by bots
+
+  if (message.content === 'help') { // Trigger command when the message is 'hello'
+    await message.reply('just ***/help*** command To open my drop down menu'); // Respond with a message
+  }
+});
+//end//
 //nodejs-events
 process.on("unhandledRejection", e => {
   console.log(e)
