@@ -25,11 +25,6 @@ const client = new Client({
   intents: [Object.keys(GatewayIntentBits)],
   partials: [Object.keys(Partials)],
 });
-// adding no prefix sytem type help in your discord server 
-const client = new Client({
-  intents: [Object.keys(GatewayIntentBits)],
-  partials: [Object.keys(Partials)],
-});
 
 client.on('messageCreate', async (message) => {
   if (message.author.bot) return; // Ignore messages sent by bots
