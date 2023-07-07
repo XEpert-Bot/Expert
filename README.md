@@ -1,5 +1,5 @@
-# XEpert
-
+# Expert V1.0
+# Expert v2.0 https://github.com/XEpert-Bot/Expert-v2.0
 **Change logs coming Soong**
 
 **chatbot**, **dashboard**, **economy with leaderboard**, **some button funtions on Music** and **Some other commands**
